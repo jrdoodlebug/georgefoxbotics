@@ -89,28 +89,10 @@ html {
   padding: 0 20px;
   line-height: 1.5; 
 }
-/*
 .bg {
   background-image: url("https://cdn.discordapp.com/attachments/932800215105273866/1067256658029445180/bg.jpeg");
   z-index: -10;
-  }*/
-
-/* foen */
-@media all and (min-width: 450px) {
-  .bg {
-    background-image: url("https://cdn.discordapp.com/attachments/932800215105273866/1068301106561679512/82934E11-1493-4DB2-B9D4-335DF0205BBC.jpg");
-    z-index: -10;
-    }
-
-}
-/* puter */
-@media all and (min-width: 500px) {
-  .bg {
-    background-image: url("https://cdn.discordapp.com/attachments/932800215105273866/1067256658029445180/bg.jpeg");
-    z-index: -10;
-    }
-
-}
+  }
 
 
 /******************************************
