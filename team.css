@@ -341,8 +341,8 @@ a {
   @media all and (min-width: 960px) {
     .card {
         border-radius: 15px;
-        margin-left: 82px;
-        margin-right: 82px;
+        margin-left: 100px;
+        margin-right: 100px;
         box-shadow: 0 10px 20px rgba(0, 0, 0, .2)
     }
   
